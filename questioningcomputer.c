@@ -1,3 +1,5 @@
+//It's meant to be the computer version of 'do you like my outfit'. 
+
 #include <stdio.h>
 int main(){
     char response;
