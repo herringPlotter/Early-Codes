@@ -6,6 +6,7 @@ int main(){
     scanf("%i",&clockj);
         if (clockj>12.00)printf("\n\nSure, we can hang out.\n\n");
             else printf("\n\nLeave me alone to die.\n\n");
+            //This is a reference to Lilo and Stitch.
             printf("\n*****");
 
     return 0;
