@@ -1,3 +1,5 @@
+//This is a code I wrote for my sister.
+
 #include <stdio.h>
 
 
