@@ -1,2 +1,2 @@
 # Early-Codes
-These are the handful of beginner codes I put together before joining Github.
+Both of these codes are scanf related if/else codes, so there isn't much variety here.
